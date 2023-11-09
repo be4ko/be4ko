@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img src="snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/be4ko/be4ko/output/snake.svg" alt="Snake animation" />
 
 ###
 <!--
