@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left">Hi 👋! My name is Abubaker and I'm a CS undergrad, from Sudan 🇸🇩</h2>
+<h2 align="left">Hi 👋! My name is Abubaker and I'm a CS undergrad
 
 ###
 
