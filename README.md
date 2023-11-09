@@ -1,5 +1,5 @@
 
-<h2 align="left">  Hi there 👋 👋! My name is Abubaker and I'm a CS undergrad
+<h2 align="left">  Hi there 👋! My name is Abubaker and I'm a CS undergrad
 
 ###
 
