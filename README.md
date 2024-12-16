@@ -52,8 +52,6 @@
 <br clear="both">
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on E-commerce website
-- 🌱 I’m currently learning ASP.NET
-- 👯 I’m looking to collaborate on Upwork Clone
+- 🌱 Currently learning Flutter
+- 👯 I’m looking to collaborate on a lot of Projects, so don't hesitate to contact me
 - 📫 Contact me: abobkr270@gmail.com 
