@@ -1,57 +1,53 @@
 
-<h2 align="left">  Hi there ! My name is Abubaker and I'm a BackEnd Developer || ASP.NET
+![Github Banner](banner.png)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=be4ko&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=be4ko&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
--->
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />  
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" height="30" alt="ASP.NET" />
-            
-          
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Abubaker;I+Love+Python;An+Java+Aswell;Let's+not+forget+Dart;I+just+everything+:);">
+</p>
 
 
-<div align="left">
 
-  <a href="https://www.instagram.com/be4ko/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35"         alt="instagram logo" />
-  </a>
-  <a  href="https://discordapp.com/users/916999420267094028">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35"             alt="discord logo"  />
-  </a>
-  <a  href="https://www.instagram.com/be4ko/">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail       logo"  />
-  </a>
-  <a  href="https://twitter.com/be4ko" >
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35"             alt="twitter logo"  />
-  </a>
-</div>
+## Who am I? 
+<!-- [![Profile views](https://komarev.com/ghpvc/?username=jaydeep-yadav&label=Profile%20views)](https://github.com/jaydeep-yadav) -->
 
 
-<br clear="both">
+ ```python
+  class WhoAmI:
+    User = 'AbubakerElsiddg Omer'
+    College = "FCAI"
+    Technology = "Flutter"
+    Fun_fact = "I hate Prolog more than Aseemply"
+Hobbies = [
+	 'Traveling',
+     'Reading Book'
+  ]
+	
+	def getCity():
+		return Aidbabikir_Khartom_Sudan()
+	
+	def Ambitions():
+		BecomeSoftwareEngineering()
+	
+ ```
 
-Here are some ideas to get you started:
-- 🌱 Currently learning Flutter
-- 👯 I’m looking to collaborate on a lot of Projects, so don't hesitate to contact me
-- 📫 Contact me: abobkr270@gmail.com 
+ 
+## Github Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=be4ko&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=be4ko&theme=blueberry_duo"/>
+
+## Programming Languages
+
+<p>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=blue"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"></a>
+</p>
+
+## Software and Tools
+<p>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+	<a href="#"><img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white"></a>
+  <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Pycharm" src="https://img.shields.io/badge/pycharm-143?logo=pycharm&logoColor=black&color=green&labelColor=green"></a>
+	<a href="#"><img alt="Intellij" src="https://img.shields.io/badge/IntelliJ&nbsp;IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+</p>
