@@ -30,11 +30,6 @@ Hobbies = [
 	
  ```
 
- 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=be4ko&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=be4ko&theme=blueberry_duo"/>
-
 ## Programming Languages
 
 <p>
